@@ -10,7 +10,7 @@ int main()
 	cout << "Ingrese sus numeros a sumar: " << endl;
 	cin >> num1 >> num2;
 	
-	cout << "El resulatado es: " << num1 + num2;
+	cout << "El resultado es: " << num1 + num2;
 
 	return 0;
 }
